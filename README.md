@@ -2,7 +2,7 @@
    
 
 <h1 align="center">Hi 👋, I'm Asad Ullah</h1>
-<h3 align="center">A passionate Flutter Developer</h3>
+<h3 align="center">A passionate Flutter and Web developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
 

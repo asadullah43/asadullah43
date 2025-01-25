@@ -53,25 +53,6 @@ I’m a <strong>Data Analyst</strong> with expertise in <strong>Power BI</strong
         <img src="https://github.com/asadullah43/SuperStore-Sales-Dashboard/blob/main/superstore%201.png" alt="Super Store Sales Dashboard">
         <img src="https://github.com/asadullah43/SuperStore-Sales-Dashboard/blob/main/superstore%202.png" alt="Super Store Sales Dashboard">
       </a>
-      <h3>Comprehensive Sales Dashboard</h3>
-      <h4>Platform:</h4>
-      <p>Power BI</p>
-      <h4>Objective:</h4>
-      <p>Designed a dynamic dashboard to monitor and analyze key metrics across multiple dimensions.</p>
-      <h4>Key Features:</h4>
-      <h5>Primary KPIs:</h5>
-      <p>Sales, Profit, Quantity, and Average Delivery Time, all updated in real time.</p>
-      <h5>Dynamic Filters:</h5>
-      <p>Interactive region filter (Central, East, South, West) for tailored analysis.</p>
-      <h5>Comparison Features:</h5>
-      <p>Monthly Year-Over-Year (YoY) comparisons of sales and profit trends (2019 vs. 2020).<br>
-         Detailed breakdown of sales by category, subcategory, and ship mode.</p>
-      <h5>Visualizations:</h5>
-      <p>Donut charts for regional, payment mode, and segment-wise sales.<br>
-         A bubble map for geographical sales distribution across North America.<br>
-         Sparklines for monthly trends, bar charts for state-wise sales performance, and subcategory analysis.</p>
-      <h5>Impact:</h5>
-      <p>Empowered decision-makers with an interactive and visually compelling dashboard for sales performance tracking, enabling more precise business decisions and market strategies.</p>
     </td>
   </tr>
 </table>

@@ -49,6 +49,7 @@ I’m a <strong>Data Analyst</strong> with expertise in <strong>Power BI</strong
   <tr>
     <td align="center">
       <h4>Super Store Sales Dashboard</h4>
+      <h3>Developed a data-driven dashboard for short-term sales forecasting and state-wise performance tracking.<h3>
       <a href="https://github.com/asadullah43/SuperStore-Sales-Dashboard" target="_blank">
         <img src="https://github.com/asadullah43/SuperStore-Sales-Dashboard/blob/main/superstore%201.png" alt="Super Store Sales Dashboard">
         <img src="https://github.com/asadullah43/SuperStore-Sales-Dashboard/blob/main/superstore%202.png" alt="Super Store Sales Dashboard">

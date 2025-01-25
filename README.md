@@ -18,8 +18,9 @@
 
 <h3 align="center">🚀 About Me</h3>
 <p align="center"> 
-I’m a <strong>Data Analyst</strong> with expertise in <strong>Power BI</strong>, <strong>SQL</strong>, <strong>Excel</strong>, <strong>Python</strong>, and <strong>Tableau</strong>. I specialize in creating interactive dashboards, performing in-depth analysis, and delivering actionable insights. Let's transform data into decisions together!
+I’m a <strong>Data Analyst</strong> with expertise in <strong>Power BI</strong>, <strong>SQL</strong>, <strong>Excel</strong>, <strong>Python</strong>, and <strong>Tableau</strong>. Delivering actionable insights and optimizing operations through data visualization and analysis. Skilled in automating workflows, enhancing efficiency, and driving data-driven decisions. Committed to maintaining data integrity and providing reliable, timely reporting for business growth. Let's transform data into decisions together!
 </p>
+
 
 ---
 

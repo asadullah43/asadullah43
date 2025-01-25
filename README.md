@@ -48,17 +48,11 @@ I’m a <strong>Data Analyst</strong> with expertise in <strong>Power BI</strong
 <table align="center">
   <tr>
     <td align="center">
-      <h4>E-Commerce Sales Dashboard</h4>
+      <h4>Super Store Sales Dashboard</h4>
       <p>📈 Power BI | Analyze sales, customers, and product trends</p>
-      <a href="https://github.com/asadullah43/ecommerce-dashboard" target="_blank">
-        <img src="https://via.placeholder.com/300x150.png?text=E-Commerce+Dashboard" alt="E-Commerce Dashboard">
-      </a>
-    </td>
-    <td align="center">
-      <h4>Logistics Tracker</h4>
-      <p>🚛 Tableau | Monitor shipment timelines and KPIs</p>
-      <a href="https://github.com/asadullah43/logistics-tracker" target="_blank">
-        <img src="https://via.placeholder.com/300x150.png?text=Logistics+Dashboard" alt="Logistics Tracker">
+      <a href="[https://github.com/asadullah43/ecommerce-dashboard](https://github.com/asadullah43/SuperStore-Sales-Dashboard)" target="_blank">
+        <img src="https://github.com/asadullah43/SuperStore-Sales-Dashboard/blob/main/superstore%201.png" alt="Super Store Sales Dashboard">
+        <img src="https://github.com/asadullah43/SuperStore-Sales-Dashboard/blob/main/superstore%202.png" alt="Super Store Sales Dashboard">
       </a>
     </td>
   </tr>

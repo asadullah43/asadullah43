@@ -29,7 +29,7 @@ I transform raw data into actionable insights through analysis, visualization, a
 
 - [**E-Com Sales Analysis**](https://github.com/asadullah43/E---Com-Sales)  
   *E-commerce sales analysis with KPIs, trends, and profit breakdown using Power BI.*  
-  ![E-Com Sales Dashboard](https://raw.githubusercontent.com/asadullah43/E---Com-Sales/main/E-Com%20Sales%20Dashboard.png)
+  ![E-Com Sales Dashboard](https://github.com/asadullah43/E---Com-Sales/blob/main/Sales%20Dashboard.png)
 
 ---
 

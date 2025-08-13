@@ -36,7 +36,7 @@ I transform raw data into actionable insights through analysis, visualization, a
 ## 📫 Connect
 - **Email**: asadu034@gmail.com  
 - **Location**: Dammam, Saudi Arabia  
-- **LinkedIn**: [linkedin.com/in/asad-ullah](https://linkedin.com/in/asad-ullah)
+- **LinkedIn**: [linkedin.com/in/asad-ullah](https://www.linkedin.com/in/asadullah44/)
 
 ---
 

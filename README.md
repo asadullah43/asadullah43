@@ -21,17 +21,6 @@ I transform raw data into actionable insights through analysis, visualization, a
 
 ---
 
-## 📌 Featured Projects
-- [**SuperStore Sales Dashboard**](https://github.com/asadullah43/SuperStore-Sales-Dashboard)  
-  *Power BI dashboard analyzing SuperStore sales performance by region, category, and segment.*  
-  ![SuperStore Sales Dashboard](https://github.com/asadullah43/SuperStore-Sales-Dashboard/blob/main/superstore%201.png)
-  ![SuperStore Sales Dashboard](https://github.com/asadullah43/SuperStore-Sales-Dashboard/blob/main/superstore%202.png)
-
-- [**E-Com Sales Analysis**](https://github.com/asadullah43/E---Com-Sales)  
-  *E-commerce sales analysis with KPIs, trends, and profit breakdown using Power BI.*  
-  ![E-Com Sales Dashboard](https://github.com/asadullah43/E---Com-Sales/blob/main/Sales%20Dashboard.png)
-
----
 
 ## 📫 Connect
 - **Email**: asadu034@gmail.com  
